@@ -3,7 +3,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-	print_in_color( "中华人民共和国\n" , default_color );
+/*	print_in_color( "中华人民共和国\n" , default_color );
 	print_in_color( "蓝色中华人民共和国\n" , dark_blue );
 	print_in_color( "中华人民共和国\n" , light_blue );
 	print_in_color( "青色中华人民共和国\n" , dark_cyan );
@@ -32,6 +32,7 @@ int main(){
 	print_in_color( "黄色中华人民共和国\n" , dark_yellow_back );
 	print_in_color( "中华人民共和国\n" , light_yellow_back );
 	print_in_color( "灰色中华人民共和国\n" , grey_back );
-//	Game game;
+	*/
+	Game game;
 	return 0;
 }

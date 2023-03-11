@@ -2,6 +2,7 @@
 #include<string>
 using namespace std;
 class Lawn;
+class Back_up;
 class Zombie {
 	friend class Bullet;
 	friend class Game;

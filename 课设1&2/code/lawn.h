@@ -4,6 +4,7 @@
 #include"overall.h"
 #include<list>
 using namespace std;
+class Game;
 class Grid {
 	friend class Game;
 	friend class Lawn;

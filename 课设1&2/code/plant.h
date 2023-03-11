@@ -2,6 +2,8 @@
 #include<string>
 #include"overall.h"
 using namespace std;
+class Game;
+class Lawn;
 class Bullet {
 	friend class Game;
 	friend class Zombie;
